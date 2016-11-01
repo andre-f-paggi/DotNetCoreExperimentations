@@ -1,0 +1,7 @@
+{
+  "name": "dotnetcore_app",
+  "private": true,
+  "dependencies": {
+    "moment": "2.13.0"
+  }
+}
